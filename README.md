@@ -33,3 +33,5 @@ Hodgens Yelp Project.ipynb: Jupyter Notebook containing complete analysis
 Yelp Restaurant Review.pdf: Slide deck providing an overview of the project
 Additional files used for analysis folder: A folder for all Jupyter notebooks and csv files used
 Yelp_businesses.csv: Restaurant dataset
+
+Presentation Link: https://docs.google.com/presentation/d/14YCahH-pm5YRGxEyc9EZXTN1FgwofhuJpoStWRfMHq0/edit#slide=id.p
