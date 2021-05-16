@@ -1,4 +1,4 @@
-### Where to Open a Bar in 2021: New York vs. Boston
+# Where to Open a Bar in 2021: New York vs. Boston
 
 Using the Yelp API, we analyzed a total of 600 bars in NYC and Boston to determine what would be the best city to open up a bar in 2021. 
 
