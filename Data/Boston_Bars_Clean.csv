@@ -1,0 +1,290 @@
+,Name,Address,Business ID,Rating,Review Count,Coordinates,Price
+0,The Corner Pub,"['162 Lincoln St', 'Boston, MA 02111']",tCPxYdZVbsDooH3DQsNLqQ,4.5,134,"{'latitude': 42.35076, 'longitude': -71.05837}",1
+1,Bleacher Bar,"['82 Lansdowne St', 'Fenway Park', 'Boston, MA 02228']",47IRTOlC4kjAf1aFKLZDdA,4.0,483,"{'latitude': 42.3469855442944, 'longitude': -71.096686816461}",2
+2,21st Amendment,"['150 Bowdoin Sq', 'Boston, MA 02108']",ZrSNKHiKK_PBB6UHx22FaA,4.0,401,"{'latitude': 42.358355, 'longitude': -71.062686}",2
+3,Boston Brew Tours by City Brew Tours,"['2 Park Plz', 'Boston, MA 02116']",UMtKPjI5xsR5Db0pCyECFA,4.5,169,"{'latitude': 42.3522696, 'longitude': -71.0670277}",2
+4,Bostonia Public House,"['131 State St', 'Boston, MA 02109']",xZ22_0eJOgaiKqIhoSHrPw,4.0,1455,"{'latitude': 42.359213, 'longitude': -71.054296}",2
+5,The Gallows,"['1395 Washington St', 'Boston, MA 02118']",5HMXgD_gui5n0Tc_hadesg,4.0,857,"{'latitude': 42.341371, 'longitude': -71.070237}",2
+6,Drink,"['348 Congress St', 'Boston, MA 02228']",rcn3L8ZeQebdG0K1RSRKXQ,4.0,1574,"{'latitude': 42.35067, 'longitude': -71.04846}",3
+7,Croke Park Whitey's,"['268 W Broadway', 'Boston, MA 02127']",OSgeFci6OzwuLzWw5JTX7g,4.5,91,"{'latitude': 42.33934, 'longitude': -71.0512}",1
+8,Saltie Girl,"['281 Dartmouth St', 'Boston, MA 02116']",sA2gVTJOBH7Qk32p48ENdQ,4.5,1171,"{'latitude': 42.3511377, 'longitude': -71.0776626}",3
+9,Harpoon Brewery,"['306 Northern Ave', 'Boston, MA 02210']",FYDP6p5G9ZcI4UW7inh88A,4.5,1520,"{'latitude': 42.3470249808051, 'longitude': -71.0348596407489}",1
+10,Mr. Dooley's,"['77 Broad St', 'Boston, MA 02109']",2v0-gBcXethuNFT6rMGiRw,4.0,435,"{'latitude': 42.35766436405488, 'longitude': -71.0536407}",2
+11,City Tap House,"['10 Boston Wharf Rd', 'Boston, MA 02210']",u21_m6mewRV6pTMn9DCosA,4.0,494,"{'latitude': 42.3499185, 'longitude': -71.0470911}",2
+12,Corner Tavern,"['421 Marlborough St', 'Boston, MA 02115']",kOqVXdqRzWIEK7XiQWxmJQ,4.0,259,"{'latitude': 42.35016, 'longitude': -71.0894299}",2
+13,Neptune Oyster,"['63 Salem St', 'Boston, MA 02113']",y2w6rFaO0XEiG5mFfOsiFA,4.5,5165,"{'latitude': 42.36321, 'longitude': -71.05594}",3
+14,The Haven,"['2 Perkins St', 'Jamaica Plain, MA 02130']",h1ESQaA5FvWju1Ru-2xPXQ,4.5,529,"{'latitude': 42.32168, 'longitude': -71.11038}",2
+15,Champions,"['110 Huntington Avenue', 'Boston, MA 02116']",PLuitJs0KkdjVE8wVlTZ_A,3.0,262,"{'latitude': 42.3468789540231, 'longitude': -71.079801833755}",2
+16,The Tam,"['222 Tremont St', 'Boston, MA 02118']",V_79WoMIjev8LFMueFJudw,3.5,354,"{'latitude': 42.3515171507333, 'longitude': -71.0646311837185}",1
+17,Beacon Hill Pub,"['149 Charles St', 'Boston, MA 02108']",fKRNzZM4XWlPiCPdjMUYNg,3.5,201,"{'latitude': 42.4234042, 'longitude': -71.0733572}",1
+18,Cheers,"['84 Beacon St', 'Boston, MA 02108']",JwJa6nY_wlZEjagVleWQ-Q,3.5,970,"{'latitude': 42.355936044299, 'longitude': -71.0711767808}",2
+19,Lolita Cocina & Tequila Bar Back Bay,"['271 Dartmouth St', 'Boston, MA 02116']",u51e3gychuqBYNqe2xG6_w,4.0,2176,"{'latitude': 42.3505860446405, 'longitude': -71.077508474716}",2
+20,State Park,"['1 Kendall Sq', 'Bldg 300, Lower Level', 'Cambridge, MA 02139']",PYDzfxSLUCCwQysbOkFSVA,4.0,283,"{'latitude': 42.366157, 'longitude': -71.090785}",2
+21,The Avenue,"['1249 Commonwealth Ave', 'Boston, MA 02134']",RJfovzPhmdt-pYHnFboM8w,4.0,377,"{'latitude': 42.35017, 'longitude': -71.132128}",1
+22,Bukowski Tavern,"['50 Dalton St', 'Boston, MA 02115']",7bq2nCYCPuvI5o2GCFRAeg,3.5,696,"{'latitude': 42.34726832024, 'longitude': -71.085402407346}",2
+23,Biddy Early's,"['141 Pearl St', 'Boston, MA 02110']",GW-qF7xopcwSeQah6Yvtnw,4.5,261,"{'latitude': 42.35465, 'longitude': -71.05374}",1
+24,City Bar,"['65 Exeter St', 'Boston, MA 02116']",Svxkliw-2cfHifMK8EvkIQ,4.0,268,"{'latitude': 42.348849, 'longitude': -71.0793773}",3
+25,The Salty Pig,"['130 Dartmouth St', 'Boston, MA 02116']",t_FFcwUutj9mIYKGw_gHsQ,4.0,1683,"{'latitude': 42.3469, 'longitude': -71.076121}",2
+26,Top Mix Bar & Kitchen,"['257 Norfolk Ave', 'Boston, MA 02119']",l6Ye6vPB6ZPZbxVxMMgvPQ,4.0,93,"{'latitude': 42.32374, 'longitude': -71.06808}",2
+27,JJ Foleys Cafe,"['117 E Berkeley St', 'Boston, MA 02118']",W62OJx5O8xwno-Dn3EuqJw,4.0,214,"{'latitude': 42.3436886733629, 'longitude': -71.0653314573811}",2
+28,Meadhall,"['4 Cambridge Ctr', 'Cambridge, MA 02142']",KPFscTq_-jGPla0cNQRUcg,3.5,743,"{'latitude': 42.36372114739928, 'longitude': -71.08735434309745}",2
+29,Atwood's Tavern,"['877 Cambridge St', 'Cambridge, MA 02141']",HkBMQKpmmdCZgxjKLq3HcQ,4.0,386,"{'latitude': 42.37275, 'longitude': -71.09145}",2
+30,Row 34,"['383 Congress St', 'Boston, MA 02210']",yBIN7uSzd5saehWA1I_GBw,4.0,1486,"{'latitude': 42.3495808510305, 'longitude': -71.0475044128162}",3
+31,Five Horses Tavern,"['535 Columbus Ave', 'Boston, MA 02118']",QFEEm3joTWU5ZF4suCuRPQ,4.0,457,"{'latitude': 42.3417445441842, 'longitude': -71.0805253552637}",2
+32,Banners Kitchen & Tap,"['82 Causeway St', 'The Hub On Causeway', 'Boston, MA 02114']",3edYNqlyo-x9ygEuw-SmOw,3.5,89,"{'latitude': 42.36556, 'longitude': -71.061494}",2
+33,Joe's On Newbury,"['181 Newbury St', 'Boston, MA 02116']",smiGOZuyboXfc8LyC2jXpg,3.5,994,"{'latitude': 42.350469, 'longitude': -71.079786}",2
+34,Lincoln Tavern and Restaurant,"['425 W Broadway', 'Boston, MA 02127']",rdpY_LeMnDnfeK47eDnDOw,4.0,883,"{'latitude': 42.336323, 'longitude': -71.0476}",2
+35,Jm Curley,"['21 Temple Pl', 'Boston, MA 02111']",09pqlAR4TSjQXNTiB4cXjw,3.5,801,"{'latitude': 42.3552425760626, 'longitude': -71.0623372441206}",2
+36,Coppersmith,"['40 West 3rd St', 'Boston, MA 02127']",DXho4NyanHYoI84uev9Omw,3.5,529,"{'latitude': 42.342445, 'longitude': -71.053848}",2
+37,Delux Café,"['100 Chandler St', 'Boston, MA 02116']",zZ7roMv_c8R4slTMPPdkng,4.0,318,"{'latitude': 42.34628, 'longitude': -71.07289}",2
+38,The Tip Tap Room,"['138 Cambridge St', 'Boston, MA 02114']",MKIngNGj0_cBKV4leGuCjw,4.0,721,"{'latitude': 42.36105, 'longitude': -71.063986}",2
+39,Brick & Mortar,"['567 Massachusetts Ave', 'Cambridge, MA 02139']",n-5xA19txqjxmRdKB3A6bg,4.0,263,"{'latitude': 42.3648518001961, 'longitude': -71.1024431306885}",2
+40,Stats Bar & Grille,"['77 Dorchester St', 'Boston, MA 02127']",pzCrO7RatLAB9ThsOSRu9A,3.5,137,"{'latitude': 42.33583, 'longitude': -71.04535}",2
+41,Cask'n Flagon,"['62 Brookline Ave', 'Boston, MA 02215']",bsGuOhibpJc-MHNXj9kiUg,3.5,608,"{'latitude': 42.347299978137, 'longitude': -71.0983470082283}",2
+42,JJ Foley's Bar & Grille,"['21 Kingston St', 'Boston, MA 02111']",8M0tAAyPMfsvHNWWUQ237Q,3.5,178,"{'latitude': 42.35384, 'longitude': -71.0592099}",1
+43,The Beehive,"['541 Tremont St', 'Boston, MA 02116']",367aDatN4B0UNT4hNPMqPQ,3.5,2195,"{'latitude': 42.344493, 'longitude': -71.071497}",2
+44,Sidebar Boston,"['14 Bromfield St', 'Boston, MA 02108']",UAtX7xmIfdd1W2Pebf6NWg,3.5,240,"{'latitude': 42.3563686, 'longitude': -71.0598171}",1
+45,Green Street,"['280 Green St', 'Cambridge, MA 02139']",JdWplSS3RfBFamm4FshtcA,4.0,694,"{'latitude': 42.36452, 'longitude': -71.10419}",2
+46,The Druid,"['1357 Cambridge St', 'Cambridge, MA 02139']",f4zeVunnSBiO_yGhXgcahA,4.5,565,"{'latitude': 42.37382, 'longitude': -71.10021}",2
+47,Eddie C's Bar,"['34 Maverick Sq', 'Boston, MA 02128']",FK2GaRPMyrA5oxZYToqTsw,4.0,35,"{'latitude': 42.36996, 'longitude': -71.03935}",1
+48,The Gaff,"['467 Moody St', 'Waltham, MA 02453']",ZT_xafbgHg3Zj0emqYw5Jg,4.5,320,"{'latitude': 42.3681742697954, 'longitude': -71.2374946475029}",2
+49,Sullivan's Pub,"['85 Main St', 'Charlestown, MA 02129']",HkGEmanL0nyQ8llX4t_z3w,4.5,34,"{'latitude': 42.37398, 'longitude': -71.06293}",1
+50,The Washington Square Tavern,"['714 Washington St', 'Brookline, MA 02445']",_vsgjhqs356JqeAPsP6XOQ,4.0,323,"{'latitude': 42.339123, 'longitude': -71.135212}",2
+51,OAK Long Bar + Kitchen,"['138 St. James Ave', 'Boston, MA 02116']",DZnhcxnSys_emI7ZHd5jYg,3.5,336,"{'latitude': 42.349092, 'longitude': -71.076187}",3
+52,backbar,"['7 Sanborn Ct', 'Somerville, MA 02143']",V6IKFLo-rJdMRJEbuLLD3g,4.5,382,"{'latitude': 42.3797392845154, 'longitude': -71.0945945978165}",2
+53,Boston Chops South End,"['1375 Washington St', 'Boston, MA 02118']",RDZJY7ls8-2hNkkXFIJg4g,4.0,622,"{'latitude': 42.3415074053928, 'longitude': -71.0696210990184}",3
+54,Grill 23 & Bar,"['161 Berkeley St', 'Boston, MA 02116']",_98MfEQ67r9-V78gmy8_Pg,4.0,1048,"{'latitude': 42.3494218727725, 'longitude': -71.0720500564835}",4
+55,Tony C's Sports Bar & Grill,"['250 Northern Ave', 'Boston, MA 02210']",-bC1fMN5kQgFruzUR8E_RA,2.5,533,"{'latitude': 42.34897, 'longitude': -71.038619}",2
+56,Back Bay Social,"['867 Boylston St', 'Boston, MA 02116']",6cGcl4ZDDxDtfxyc6PKFPQ,3.5,689,"{'latitude': 42.34872, 'longitude': -71.08345}",2
+57,The Publick House,"['1648 Beacon St', 'Brookline, MA 02445']",rK-fgI2_-x0T4lxwF9L4Ww,4.0,1194,"{'latitude': 42.3394130267999, 'longitude': -71.1367036548893}",2
+58,Wink & Nod,"['3 Appleton St', 'Boston, MA 02116']",4-Tp4hstdC5XVvO4otGkuA,4.0,450,"{'latitude': 42.3466991630507, 'longitude': -71.0694792474231}",3
+59,Solas Irish Pub,"['710 Boylston St', 'Boston, MA 02116']",ZepRG9iVXXA-u3gH5C-UKA,3.5,378,"{'latitude': 42.34927, 'longitude': -71.079759}",2
+60,Beantown Pub,"['100 Tremont St', 'Boston, MA 02108']",V8_e5MRjfexH4WFBqjDWCg,3.0,636,"{'latitude': 42.357451481565, 'longitude': -71.060911746876}",2
+61,Barcelona Wine Bar South End,"['525 Tremont St', 'Boston, MA 02116']",mP1EdIafQKMuOm9O4PzAfA,4.5,1130,"{'latitude': 42.3449355147724, 'longitude': -71.0705436362457}",2
+62,Allston Billiards,"['445 Cambridge St', 'Fl 2', 'Boston, MA 02134']",WhOZfqo49chqzdt15iluQA,5.0,6,"{'latitude': 42.35467, 'longitude': -71.13542}",1
+63,Dunn-Gaherin’s Food and Spirits,"['344 Elliot St', 'Newton, MA 02464']",BRPrmJoGYtDRwtPl-vh-zQ,4.5,351,"{'latitude': 42.31271, 'longitude': -71.22397}",2
+64,75 Chestnut,"['75 Chestnut St', 'Boston, MA 02108']",qVNYCZi2ofv-oe293JsYkg,4.0,492,"{'latitude': 42.35695, 'longitude': -71.07097}",2
+65,Worden Hall,"['22 W Broadway', 'Boston, MA 02127']",Y7B9tTmHPXgNwu5SRGtgtQ,4.0,348,"{'latitude': 42.3427610900378, 'longitude': -71.0568092748732}",2
+66,Midway Cafe,"['3496 Washington St', 'Jamaica Plain, MA 02130']",K8qPnx9EUWhQ-NkRYw-q7A,4.0,85,"{'latitude': 42.3061329, 'longitude': -71.1075658}",1
+67,Area Four,"['500 Technology Sq', 'Cambridge, MA 02139']",WYnXpXym2DMtwchDcbilmg,4.0,939,"{'latitude': 42.363073, 'longitude': -71.0924589}",2
+68,Lulu's Allston,"['421 Cambridge St', 'Boston, MA 02134']",FioFvBhgVPV2dZW3mxjxQQ,4.0,501,"{'latitude': 42.3550647, 'longitude': -71.1341649}",2
+69,Kings Dining & Entertainment - Boston Seaport,"['60 Seaport Blvd', 'Boston, MA 02210']",mmJ2ixPN8NIkEEIM4oHd8g,4.0,202,"{'latitude': 42.3515879, 'longitude': -71.0447779}",2
+70,Porters Bar & Grill,"['173 Portland St', 'Boston, MA 02114']",9VGECwLbj29RljD2WVSzaw,4.0,250,"{'latitude': 42.3642896, 'longitude': -71.061702}",2
+71,Rock Bottom Restaurant & Brewery,"['115 Stuart St', 'Boston, MA 02116']",DZm67Anqn1IQTB9iGvw4Fw,3.0,652,"{'latitude': 42.351279, 'longitude': -71.065284}",2
+72,State Street Provisions,"['255 State St', 'Long Wharf', 'Boston, MA 02109']",-S_m_GBqkGEjABeO0FaxzA,4.0,527,"{'latitude': 42.35944, 'longitude': -71.05113}",2
+73,Moonshine 152,"['152 Dorchester Ave', 'Boston, MA 02127']",1C32E52HmhRC3GNwkX2nZg,4.5,412,"{'latitude': 42.34133, 'longitude': -71.0569151}",2
+74,Warehouse Bar & Grille,"['40 Broad St', 'Boston, MA 02109']",uUMnZINNYCvgdX7jla4PLA,3.5,193,"{'latitude': 42.35850045521629, 'longitude': -71.05399911979244}",2
+75,Dillon's,"['955 Boylston St', 'Boston, MA 02115']",M0fRUDEo9mbnZFXhvshlFw,3.0,474,"{'latitude': 42.3479653914953, 'longitude': -71.0858754834292}",2
+76,Citizen Public House & Oyster Bar,"['1310 Boylston St', 'Boston, MA 02215']",WESPiF4WcuAYb_r6N4SqgQ,3.5,650,"{'latitude': 42.3442, 'longitude': -71.09795}",2
+77,Corner Cafe,"['87 Prince St', 'Boston, MA 02113']",UoAbVHm6A04avk-QIhiWYQ,4.0,67,"{'latitude': 42.3656005859375, 'longitude': -71.0561828613281}",1
+78,The Brewer's Fork,"['7 Moulton St', 'Boston, MA 02129']",IJ2MnBlIvib0aU2hbmr0hg,4.5,392,"{'latitude': 42.37671, 'longitude': -71.05649}",2
+79,Franklin Cafe,"['278 Shawmut Ave', 'Boston, MA 02118']",fmw_0vST7GjdibObHWLOuQ,4.0,510,"{'latitude': 42.34291, 'longitude': -71.06895}",2
+80,The Mission Bar & Grill,"['724 Huntington Ave', 'Boston, MA 02120']",nmSiYGAo8YA4oCXjAAgY5g,3.5,337,"{'latitude': 42.33375, 'longitude': -71.10523}",2
+81,Yvonne's,"['2 Winter Pl', 'Boston, MA 02108']",nIS4O-TwLYkA_P1Cu0SfhA,4.0,1023,"{'latitude': 42.355517, 'longitude': -71.0614361}",3
+82,Flann O'Brien's,"['1619 Tremont St', 'Roxbury Crossing, MA 02120']",DMMIU3G8CngajT2ymBfXxw,3.5,149,"{'latitude': 42.33386, 'longitude': -71.103309}",2
+83,4th Wall Restaurant & Bar,"['228 Tremont St', 'Boston, MA 02116']",X0mY5Pf7Fj_kfWmwDEqwdQ,4.0,95,"{'latitude': 42.35134, 'longitude': -71.06458}",2
+84,Mj O'connor's - Boston,"['27 Columbus Ave', 'Boston, MA 02116']",uMZoY7AyG08rnN-YiQN7fA,3.0,268,"{'latitude': 42.3511597728604, 'longitude': -71.0689188256007}",2
+85,Bar Mezzana,"['360 Harrison Ave', 'Boston, MA 02118']",bZhUufqdpg5qxsDKpIRv5A,4.5,348,"{'latitude': 42.3445756001492, 'longitude': -71.0635791144088}",3
+86,The Landing,"['One Long Wharf', 'Boston, MA 02110']",g_1zgYJqkm3w9FeKaOYgcA,3.5,134,"{'latitude': 42.359803, 'longitude': -71.050338}",2
+87,Boston Burger - Boston,"['1100 Boylston St', 'Boston, MA 02215']",Dvwj6KWrDZHVQwlSjYS4Iw,4.0,1039,"{'latitude': 42.346827, 'longitude': -71.0884733}",2
+88,Clerys,"['113 Dartmouth St', 'Boston, MA 02116']",t77sOZmbHMB6n3whAQT8MA,3.0,443,"{'latitude': 42.3463019932994, 'longitude': -71.0754544879197}",2
+89,Tavern In The Square,"['120 Beverly St', 'Boston, MA 02114']",IvvgLWS3J6qR4dhYMlDOPA,3.5,274,"{'latitude': 42.36572, 'longitude': -71.060117}",2
+90,The Puddingstone Tavern,"['1592 Tremont St', 'Boston, MA 02120']",nvSIoGq_vt_VTrJBqgF4Gg,4.0,25,"{'latitude': 42.333423614502, 'longitude': -71.1031951904297}",2
+91,The Muddy Charles Pub at MIT,"['142 Memorial Dr', 'Cambridge, MA 02139']",suopVZZ_uvIwCaiDzBWurA,4.0,61,"{'latitude': 42.3591735573941, 'longitude': -71.0880663796093}",1
+92,Harry's Bar & Grill,"['1430 Commonwealth Ave', 'Brighton, MA 02135']",E3DdyR6aT7NpLNN39cMTcQ,4.0,327,"{'latitude': 42.3483007201325, 'longitude': -71.1399161799289}",2
+93,The Friendly Toast,"['35 Stanhope St', 'Back Bay, MA 02116']",xlOMKjE4omTgkI1eduWj8A,4.0,1828,"{'latitude': 42.3483479318913, 'longitude': -71.0732730478048}",2
+94,Brendan Behan Pub,"['378 Centre St', 'Jamaica Plain, MA 02130']",4HnToN8bByaPRTTehukvXw,4.0,192,"{'latitude': 42.32196, 'longitude': -71.10927}",1
+95,Saus,"['33 Union St', 'Boston, MA 02108']",VFvCFOYtyK9ae4Skxvf3vA,4.0,1257,"{'latitude': 42.3610800091721, 'longitude': -71.0570718850568}",2
+96,Ward 8,"['90 N Washington St', 'Boston, MA 02113']",MkjhW1dVbl3e0AxBL0oXKw,4.0,490,"{'latitude': 42.3653984, 'longitude': -71.0586472}",2
+97,Limelight Stage + Studios,"['204 Tremont St', 'Boston, MA 02116']",YjUrrZIO2O9ls4hiz8nMtA,3.0,230,"{'latitude': 42.3520584799329, 'longitude': -71.0644841194153}",2
+98,Sports Connection Bar & Grill,"['560 Dorchester Ave', 'Boston, MA 02127']",mfVplR2yhNMfTVRkCLh90w,4.0,11,"{'latitude': 42.33047, 'longitude': -71.05672}",1
+99,GrandTen Distilling,"['383 Dorchester Ave', 'Boston, MA 02127']",KeC3GrFHGRl-vRT8LIuB3g,5.0,103,"{'latitude': 42.3350791931152, 'longitude': -71.0572052001953}",2
+100,The Point,"['147 Hanover St', 'Boston, MA 02108']",arnbjQR2n0-6-iqdBB_gHw,3.5,206,"{'latitude': 42.36166, 'longitude': -71.05708}",2
+101,RumBa,"['510 Atlantic Ave', 'InterContinental Boston', 'Boston, MA 02210']",f0Av9RuE2a6KSULJsOyZzg,3.5,103,"{'latitude': 42.354093, 'longitude': -71.051903}",3
+102,Boston Sail Loft,"['80 Atlantic Ave', 'Boston, MA 02110']",aGYdF_fNHDhFCAnXoTCkGA,4.0,852,"{'latitude': 42.362464, 'longitude': -71.050536}",2
+103,Harvard Gardens,"['316 Cambridge St', 'Boston, MA 02114']",IjshhPQwClaUK1v7z_7CpQ,3.5,448,"{'latitude': 42.3609451, 'longitude': -71.0688988}",2
+104,Cornwall's,"['644 Beacon St', 'Boston, MA 02215']",lcJ9Aaf-NC4233RyLdaq0Q,3.5,220,"{'latitude': 42.34938, 'longitude': -71.09589}",2
+105,The Bullpen,"['19-21 Jersey St', 'Boston, MA 02215']",ev0CyR6RXtt-2mjQciY3nw,4.5,17,"{'latitude': 42.34613, 'longitude': -71.09884}",1
+106,Earls Kitchen + Bar,"['800 Boylston St', 'Unit 107', 'Boston, MA 02199']",m1ertlgQIxAl74D7nCsvbQ,4.0,912,"{'latitude': 42.34751, 'longitude': -71.08135}",2
+107,Emmet's Irish Pub & Restaurant,"['6 Beacon St', 'Boston, MA 02108']",n6iTeADfaVagZjsoZZ631A,4.0,301,"{'latitude': 42.3582161, 'longitude': -71.0612726}",2
+108,Kelley Square Pub,"['84 Bennington St', 'East Boston, MA 02128']",Tyf0P9SMnc9Q7jXF6JO3cw,4.0,176,"{'latitude': 42.3762017229843, 'longitude': -71.0357013997035}",2
+109,The Junction,"['110 Dorchester St', 'Boston, MA 02127']",VwcuTadW8apQeNvt0IRfKQ,4.0,83,"{'latitude': 42.335090637207, 'longitude': -71.0459518432617}",2
+110,The Bell In Hand,"['45 Union St', 'Boston, MA 02108']",uCJqYrBSITSrJBHyMPznwg,3.5,927,"{'latitude': 42.361215013631, 'longitude': -71.0569801166266}",2
+111,Cathedral Station,"['1222 Washington St', 'Boston, MA 02118']",B5yYnr3KY1RuGy6L1Y8AWw,3.5,51,"{'latitude': 42.3428190425811, 'longitude': -71.066907314402}",2
+112,Trillium Brewing - Fort Point,"['50 Thomson Pl', 'Boston, MA 02210']",Gs4lOF2OuftG6iQl-iOVdQ,4.0,434,"{'latitude': 42.3510247187811, 'longitude': -71.0441803851201}",2
+113,Silvertone,"['69 Bromfield St', 'Boston, MA 02108']",_RWkck7niE8VJG3zLXK2ig,4.0,862,"{'latitude': 42.3571471, 'longitude': -71.0608731}",2
+114,Anchovies,"['433 Columbus Ave', 'Boston, MA 02116']",EYMC8NHn6U-4WpLo54dQtw,4.0,396,"{'latitude': 42.343939, 'longitude': -71.077598}",2
+115,The Sevens Ale House,"['77 Charles St', 'Boston, MA 02114']",OxobKchEqJU2BZi6qc0QBA,3.5,280,"{'latitude': 42.358163031345, 'longitude': -71.070565798128}",2
+116,JJ Foley's Fireside Tavern,"['30 Hyde Park Ave', 'Jamaica Plain, MA 02130']",5Sa00ZJMBNHhCfY9jpCq9w,3.5,39,"{'latitude': 42.2991473, 'longitude': -71.1138975}",1
+117,Russell House Tavern,"['14 Jfk St', 'Cambridge, MA 02138']",_9ZZv5V-uM5BXx3P-HslIw,4.0,1974,"{'latitude': 42.373113889528, 'longitude': -71.119494214654}",2
+118,The Lansdowne Pub,"['9 Lansdowne St', 'Boston, MA 02215']",w2uRbCHkWjjHzHnYRsG-EQ,3.5,371,"{'latitude': 42.347327, 'longitude': -71.095093}",2
+119,Renegade's Pub,"['1004 Bennington St', 'Boston, MA 02128']",CJ0DuAPIract7wPMWgsXbg,4.0,96,"{'latitude': 42.38689, 'longitude': -71.0068}",1
+120,Yard House,"['126 Brookline Ave', 'Boston-Fenway, MA 02215']",n4XrNsqY2Oi1DB7-2hJzTw,3.5,821,"{'latitude': 42.3453025325918, 'longitude': -71.1003178238538}",2
+121,Olde Magoun's Saloon,"['518 Medford St', 'Somerville, MA 02145']",hkduXqDA7Ssmb-2hqpGMDg,4.0,422,"{'latitude': 42.3966331481934, 'longitude': -71.1041030883789}",2
+122,A4cade by Area Four,"['292 Massachusetts Ave', 'Cambridge, MA 02139']",3UtlwidZDSxtT9ukO79bHA,3.5,190,"{'latitude': 42.362077, 'longitude': -71.098395}",2
+123,The Hill Tavern,"['228 Cambridge St', 'Boston, MA 02114']",aehgQxttnq8h6LEKsu9T7g,3.5,250,"{'latitude': 42.36098, 'longitude': -71.06666}",2
+124,The Black Rose,"['160 State St', 'Boston, MA 02109']",pgb_V3Wk56X5HK1NfLFgcw,3.5,704,"{'latitude': 42.3594142632159, 'longitude': -71.0536410447498}",2
+125,Lucky's Lounge,"['355 Congress St', 'Boston, MA 02210']",Go8U9oJd4CfpO1ik4Z8iKA,3.5,629,"{'latitude': 42.35020568362159, 'longitude': -71.04844640199286}",2
+126,Buff's Pub,"['317 Washington St', 'Newton, MA 02458']",GHZ-EWQrVxKYDtt9ce82Og,4.0,464,"{'latitude': 42.35716, 'longitude': -71.186587}",2
+127,Tavern at the End of the World,"['108 Cambridge St', 'Charlestown, MA 02129']",bqC8cTtPJmSAW6NUVHV9YQ,4.0,216,"{'latitude': 42.38218, 'longitude': -71.07938}",2
+128,The Merchant,"['60 Franklin St', 'Boston, MA 02110']",ZzOD1ur-Hd4n4ts58w_OEg,3.5,348,"{'latitude': 42.355794, 'longitude': -71.058365}",2
+129,Precinct Kitchen + Bar,"['154 Berkeley St', 'Boston, MA 02116']",itOs1rPS8j8sakiwsl1PEw,3.5,252,"{'latitude': 42.3488506867202, 'longitude': -71.0719430973949}",2
+130,The Plough & Stars,"['912 Massachusetts Ave', 'Cambridge, MA 02139']",PKnj9SK8M9aSrWpf0rQtPg,4.0,309,"{'latitude': 42.3683197, 'longitude': -71.1086916}",2
+131,Del Frisco's Double Eagle Steakhouse,"['250 Northern Ave', 'Ste 200', 'Boston, MA 02210']",T1wflZohQRZVb9SKQapfFA,3.5,1084,"{'latitude': 42.3489496, 'longitude': -71.038692}",4
+132,Local 149,"['149 P St', 'Boston, MA 02127']",zEel4VKJtybhJurBaHbsuw,3.5,434,"{'latitude': 42.33312, 'longitude': -71.02732}",2
+133,Hops N Scotch,"['1306 Beacon St', 'Brookline, MA 02446']",djb7jPPMwVOBfCE5K7Ilog,3.5,443,"{'latitude': 42.342624, 'longitude': -71.120666}",2
+134,Cambridge Brewing Company,"['1 Kendall Sq', 'Bldg 100', 'Cambridge, MA 02139']",Bmvu1grPzxECp7dxm8zerA,3.5,794,"{'latitude': 42.366470060263, 'longitude': -71.0913371232944}",2
+135,The Warren Tavern,"['2 Pleasant St', 'Charlestown, MA 02129']",8I2CBbVJnWS8w8OfkexE8g,4.0,484,"{'latitude': 42.37422, 'longitude': -71.06311}",2
+136,The Abbey,"['1755 Massachusetts Ave', 'Cambridge, MA 02140']",oeGGj21XtuZTTIk3wRlCOw,4.0,236,"{'latitude': 42.3851057658005, 'longitude': -71.1191113498644}",2
+137,Craigie On Main,"['853 Main St', 'Cambridge, MA 02139']",58cDJU4cub1o0o0B4h9GrA,4.0,1306,"{'latitude': 42.3634817952265, 'longitude': -71.098551}",4
+138,"730 Tavern, Kitchen & Patio","['730 Massachusetts Ave', 'Cambridge, MA 02139']",XE3oEdVJ2wu_J5X8TdLU-w,3.5,98,"{'latitude': 42.36591, 'longitude': -71.10514}",2
+139,Hopewell Bar & Kitchen,"['1277 Commonwealth Ave', 'Boston, MA 02134']",eTTnOUoAhbv65vcApwhTgQ,4.0,238,"{'latitude': 42.3498153686523, 'longitude': -71.1334228515625}",2
+140,The Banshee,"['934 Dorchester Ave', 'Dorchester, MA 02125']",GBsTXDvtuVSM2IC9mFQD9Q,3.5,163,"{'latitude': 42.3189697265625, 'longitude': -71.0564880371094}",2
+141,Casey's,"['171 Broadway', 'Somerville, MA 02145']",GeH-0kjRmRDkO5N6-6ySdg,4.5,46,"{'latitude': 42.3891, 'longitude': -71.0863}",2
+142,Good Life,"['28 Kingston St', 'Boston, MA 02111']",n5c-AeQYPJxIpjiuOKjxOg,3.5,357,"{'latitude': 42.353525, 'longitude': -71.05918}",2
+143,Cambridge Common,"['1667 Massachusetts Ave', 'Cambridge, MA 02138']",leGlDtF4iveddK_uuBC8lQ,4.0,720,"{'latitude': 42.382133040905, 'longitude': -71.119461647643}",2
+144,Union Oyster House,"['41 Union St', 'Boston, MA 02108']",Ruq91rmQNweZ78TzKylQMg,3.5,2855,"{'latitude': 42.36126, 'longitude': -71.05688}",2
+145,Bootleg Special,"['400 Tremont St', 'Boston, MA 02116']",nyy38msunExaObJOeH7j0Q,4.0,685,"{'latitude': 42.3471199, 'longitude': -71.06834}",2
+146,Gather,"['75 Northern Ave', 'Boston, MA 02210']",WDpPZYEZhf7LLv3PyTeb4Q,3.5,401,"{'latitude': 42.35235641, 'longitude': -71.04519609}",2
+147,Article 24,"['458 Western Ave', 'Brighton, MA 02135']",GHmjQQuQya93blcsHHLDjQ,4.0,276,"{'latitude': 42.361896, 'longitude': -71.142204}",2
+148,The Red Hat,"['9 Bowdoin St', 'Boston, MA 02114']",_tkRmWRJpRDiXCzxNZSEIA,3.5,258,"{'latitude': 42.3610074438742, 'longitude': -71.063042645175}",2
+149,Alibi,"['215 Charles St', 'Boston, MA 02114']",pwejc1NUK6cQz7aK_4XYEQ,3.0,366,"{'latitude': 42.362014, 'longitude': -71.070142}",3
+150,Brownstone,"['111 Dartmouth St', 'Boston, MA 02116']",a17mI6DjjfWDL6dpZS6oBg,3.5,376,"{'latitude': 42.3464177995131, 'longitude': -71.0754221986725}",2
+151,Sullivan's Tap,"['168 Canal St', 'Boston, MA 02114']",goj3-MeDiCS2soysk6AaSQ,3.5,114,"{'latitude': 42.3651510825536, 'longitude': -71.0609895171967}",1
+152,Club Café,"['209 Columbus Ave', 'Boston, MA 02116']",IeJ6oKr3MW5bSlwmlkknwg,3.0,360,"{'latitude': 42.3482771, 'longitude': -71.0724468}",2
+153,Rocco's Cucina & Bar,"['450 Commercial St', 'Boston, MA 02109']",um4x6dIkv8w2a4e0VkRNmA,3.5,162,"{'latitude': 42.36738, 'longitude': -71.0534107325021}",2
+154,Lord Hobo,"['92 Hampshire St', 'Cambridge, MA 02139']",A3D8gBGNmt51kvcI0GkaGQ,3.5,584,"{'latitude': 42.3687629699707, 'longitude': -71.095100402832}",2
+155,Parla,"['230 Hanover St', 'Boston, MA 02113']",ElOE7WzFMX8aMS_hkqtX_w,4.0,346,"{'latitude': 42.3632455, 'longitude': -71.0552327}",2
+156,Seapoint Restaurant,"['367 E 8th St', 'Boston, MA 02127']",c81oaaBKc7XJmoHGCudSOg,4.0,41,"{'latitude': 42.3310394287109, 'longitude': -71.0464019775391}",2
+157,Monument Restaurant & Tavern,"['251 Main St', 'Boston, MA 02129']",wxe0Hxxhv4FQtI8EvrgReA,4.5,207,"{'latitude': 42.3769209851841, 'longitude': -71.0660490700896}",2
+158,Boston Sports Grille,"['132 Canal St', 'Boston, MA 02114']",sG0zIVkkWRe0p1VOSZgpBQ,3.0,114,"{'latitude': 42.3647293, 'longitude': -71.0605345}",2
+159,The Dugout,"['722 Commonwealth Ave', 'Boston, MA 02215']",5zHk4iADzrzZdgf979xekg,3.5,55,"{'latitude': 42.3495445251465, 'longitude': -71.1059951782227}",1
+160,Modern Underground Bar and Grill,"['263 Hanover St', 'Boston, MA 02113']",49wY3aTGhVJP9upnDRrgdQ,4.0,15,"{'latitude': 42.363249, 'longitude': -71.054722}",2
+161,The Draft,"['34 Harvard Ave', 'Allston, MA 02134']",9jStwuAp2D0gdMFe6FNrTw,3.0,241,"{'latitude': 42.35486, 'longitude': -71.13238}",1
+162,Tony C's Sports Bar & Grill,"['699 Assembly Row', 'Somerville, MA 02145']",kVn-sFg1CIFaHuRdES00NA,3.0,400,"{'latitude': 42.3956879, 'longitude': -71.0791112306885}",2
+163,Sissy K's,"['6 Commercial St', 'Boston, MA 02109']",9hTI2_9upvC5JI0oju1PtQ,3.0,321,"{'latitude': 42.3594748, 'longitude': -71.0536962}",1
+164,Lower Mills Tavern,"['2269 Dorchester Ave', 'Boston, MA 02124']",W0Lmpe7yIVercq9ouNzrxA,4.0,150,"{'latitude': 42.27298, 'longitude': -71.06807}",2
+165,The Lenox Hotel,"['61 Exeter St At Boylston', 'Boston, MA 02116']",BLly5k37w3SpyvWoTFUwbA,4.5,253,"{'latitude': 42.3491924, 'longitude': -71.0796152}",3
+166,The Ginger Man,"['148 State St', 'Boston, MA 02109']",imBg1-qcZ9Wwvw8KsQBcUg,4.0,108,"{'latitude': 42.35948, 'longitude': -71.05419}",2
+167,Parish Cafe and Bar,"['361 Boylston St', 'Boston, MA 02116']",_QUh5vFHSuw8R_uiFZ7XKQ,4.0,1417,"{'latitude': 42.35194, 'longitude': -71.07168}",2
+168,CitySide Tavern,"['1960 Beacon St', 'Brighton, MA 02135']",lrgGdVjP9iVYOXP-357fsA,3.0,361,"{'latitude': 42.33643, 'longitude': -71.15016}",2
+169,Woody's Grill and Tap,"['58 Hemenway St', 'Boston, MA 02115']",R7peDyHzKTGilwo_1fjt3g,4.0,286,"{'latitude': 42.344859, 'longitude': -71.089571}",2
+170,Night Shift Brewing,"['87 Santilli Hwy', 'Everett, MA 02149']",--hkbIWgBKBOZq4VcNwdhQ,4.5,437,"{'latitude': 42.405977, 'longitude': -71.067886}",2
+171,Tavern in the Square,"['161 Brighton Ave', 'Allston, MA 02134']",pOtm0huSB2_ydAhPLU7EwQ,3.0,484,"{'latitude': 42.35330745278515, 'longitude': -71.1326381055454}",2
+172,Slade's Bar & Grill,"['958 Tremont St', 'Roxbury Crossing, MA 02120']",ULGoHTVLp5ZgUEBoxFb4vg,3.5,169,"{'latitude': 42.33723, 'longitude': -71.08362}",2
+173,Sunset Cantina,"['916 Commonwealth Ave', 'Boston, MA 02215']",cSvpRCBljhJiE6NFZUwK4w,3.5,633,"{'latitude': 42.35085, 'longitude': -71.117}",2
+174,Shenannigans Bar,"['332 W Broadway', 'Boston, MA 02127']",LSmYTw4HvU0lDBK4Mg2KyQ,3.5,182,"{'latitude': 42.33849, 'longitude': -71.04971}",2
+175,Shays Pub & Wine Bar,"['58 Jfk St', 'Cambridge, MA 02138']",XlcWm3OdV1QrSPF_AwrlTQ,4.0,227,"{'latitude': 42.3717754, 'longitude': -71.1208141}",2
+176,Clink,"['215 Charles St', 'The Liberty Hotel', 'Boston, MA 02114']",DkuCJwpeiGhW41EEcOKweg,3.0,404,"{'latitude': 42.362238, 'longitude': -71.070537}",3
+177,Matt Murphy's Pub,"['14 Harvard St', 'Brookline, MA 02445']",tN08NZTMnyX_yT89uVN2_w,3.5,362,"{'latitude': 42.333667866966, 'longitude': -71.119049}",2
+178,Audubon Boston,"['838 Beacon St', 'Boston, MA 02215']",cqQfX8bDkR-7Ijh8JMtqJg,4.0,192,"{'latitude': 42.347459, 'longitude': -71.10323}",2
+179,Charlie's Kitchen,"['10 Eliot St', 'Cambridge, MA 02138']",uKB1eXRNNBq2w4-wUkusZA,3.5,894,"{'latitude': 42.3724547, 'longitude': -71.1214953}",2
+180,Grainne O Malleys,"['201 Harvard St', 'Brookline, MA 02446']",qtww5gR4Oyw29gqMoV3uLg,4.5,64,"{'latitude': 42.3396614, 'longitude': -71.1207357}",2
+181,Barking Crab,"['88 Sleeper St', 'Boston, MA 02210']",oz882XuZCxajKo64Opgq_Q,3.0,2167,"{'latitude': 42.3526056660998, 'longitude': -71.0516597924946}",2
+182,Paulaner Bier Garden,"['Nashua St', 'Boston, MA 02114']",Qotb4003obBBB7KZQus56A,3.5,9,"{'latitude': 42.3676414, 'longitude': -71.0661011}",2
+183,Lamplighter Brewing,"['284 Broadway', 'Cambridge, MA 02139']",mqDsEyybiu1yXYu3LgwbZg,4.0,227,"{'latitude': 42.36778, 'longitude': -71.09797}",2
+184,Irish Village,"['224 Market St', 'Brighton, MA 02135']",438xwnZ_j61hX7ymJsApVQ,4.5,60,"{'latitude': 42.35485, 'longitude': -71.14969}",1
+185,Committee,"['50 Northern Ave', 'Boston, MA 02210']",8a_P_6kYaIM2HdOEd0xzmg,4.0,604,"{'latitude': 42.353665, 'longitude': -71.047096}",2
+186,B&G Oysters,"['550 Tremont St', 'Boston, MA 02116']",mxjVk5rvPNhzYe_vt3OSQA,4.0,1063,"{'latitude': 42.34388, 'longitude': -71.07123}",3
+187,Myers & Chang,"['1145 Washington St', 'Boston, MA 02118']",72PQGMhrEcIuWH-S44TprA,4.0,1683,"{'latitude': 42.3438187315924, 'longitude': -71.066250270967}",2
+188,Legal Sea Foods,"['270 Northern Ave', 'Boston, MA 02210']",et8Pwzjy2vjRhETAgEZ1Lg,3.5,1411,"{'latitude': 42.34865, 'longitude': -71.03779}",3
+189,Pier 6 Boston Waterfront,"['1 8th St', 'Pier 6', 'Charlestown, MA 02129']",SeCCwykRJ7Y7S5Qok4px2w,3.5,406,"{'latitude': 42.373052, 'longitude': -71.050003}",2
+190,Regina Pizzeria,"['11 Thacher St', 'Boston, MA 02113']",htEuhPBhBgMs6ShlT3G3JA,4.0,2088,"{'latitude': 42.36544488158402, 'longitude': -71.0568833173494}",2
+191,Temazcal Tequila Cantina,"['250 Northern Ave', 'Boston, MA 02210']",A--_gxXUMp4caZzQlLPLoA,3.0,837,"{'latitude': 42.348829346236, 'longitude': -71.03836869201}",2
+192,The Hub Pub,"['18 Province St', 'Boston, MA 02108']",c319_3VSm9DyYwhkLXrunA,3.0,212,"{'latitude': 42.3573133349419, 'longitude': -71.059564948082}",1
+193,The Abbey,"['1657 Beacon St', 'Brookline, MA 02445']",knIq-vPHJGFC0UzAtIFESw,4.0,474,"{'latitude': 42.338634, 'longitude': -71.136831}",2
+194,Elephant & Castle,"['161 Devonshire St', 'Boston, MA 02110']",VxoRKAebGksNn5ewTGGxQQ,3.0,398,"{'latitude': 42.35629, 'longitude': -71.0575}",2
+195,"The Liberty, a Luxury Collection Hotel, Boston","['215 Charles St', 'Boston, MA 02114']",cFIBZFDLc4pG4htRU3180A,3.5,626,"{'latitude': 42.3619210663838, 'longitude': -71.0702053525626}",3
+196,Saloon,"['255 Elm St', 'Somerville, MA 02144']",L0Ds6wNdgS0YwqVNWVns9Q,3.5,393,"{'latitude': 42.3956413269043, 'longitude': -71.1216659545898}",2
+197,Atlantic Fish Co,"['761 Boylston St', 'Boston, MA 02116']",AGR_kBvN__I7aTl0rBywAg,4.0,2604,"{'latitude': 42.3492217873536, 'longitude': -71.0811272917217}",3
+198,FiRE + iCE  Grill + Bar,"['205 Berkeley St', 'Boston, MA 02116']",dz2OSto01aMIWkGHXd8lOg,3.0,750,"{'latitude': 42.35066, 'longitude': -71.07249}",2
+199,Paddy's Lunch,"['260 Walden St', 'Cambridge, MA 02138']",XnRs0pcBX5mhYGN9doC1Lw,4.5,33,"{'latitude': 42.38595, 'longitude': -71.13115}",1
+200,Park Restaurant & Bar,"['59 Jfk St', 'Cambridge, MA 02138']",oYN2AV5oYv93Z2NevvOKmA,4.0,661,"{'latitude': 42.3718681, 'longitude': -71.1208725}",2
+201,BEERWORKS No. 1 Fenway,"['61 Brookline Ave', 'Boston, MA 02215']",SNJhevBiD7xFvxiEJywMxw,3.5,732,"{'latitude': 42.3472099, 'longitude': -71.09913}",2
+202,Coolidge Corner Clubhouse,"['307 Harvard St', 'Brookline, MA 02446']",435AFqUlpfkv2MvSHw6S8A,3.0,432,"{'latitude': 42.3432707, 'longitude': -71.1227847}",2
+203,Dorset Hall,"['367 Neponset Ave', 'Boston, MA 02122']",fKN1Dn7N97cvgzKMlZIIoQ,3.0,238,"{'latitude': 42.2864837646484, 'longitude': -71.0451736450195}",2
+204,Alumni,"['836 Washington St', 'Rt 53', 'Weymouth, MA 02189']",lXqHE_77ENPFxZVe9VScTg,4.0,29,"{'latitude': 42.201021, 'longitude': -70.943086}",2
+205,The Greatest Bar,"['262 Friend St', 'Boston, MA 02114']",mkCTMbS4E-g2aC1oUTAuig,2.5,275,"{'latitude': 42.364559173584, 'longitude': -71.0614166259766}",2
+206,Bambara,"['25 Edwin H Land Blvd', 'Cambridge, MA 02141']",75r5DhL8I3iXlZ8K5nOpEw,3.5,293,"{'latitude': 42.3671414, 'longitude': -71.0756156}",2
+207,Samuel Adams Brewery,"['30 Germania St', 'Boston, MA 02130']",VImbIWfxODVsiRHebSQePw,4.5,1440,"{'latitude': 42.3144647, 'longitude': -71.1031}",1
+208,Sligo Pub,"['237 Elm St', 'Somerville, MA 02144']",NXH1Xrs7MwK7Pu2p8E4yag,3.5,242,"{'latitude': 42.3950870296221, 'longitude': -71.1214927294019}",1
+209,The Dean's List,"['5 Blossom St', 'Boston, MA 02114']",yhRelsfsb6YxPcwYk1QZjg,3.0,45,"{'latitude': 42.3617858886719, 'longitude': -71.0666198730469}",2
+210,Bistro du Midi,"['272 Boylston St', 'Boston, MA 02116']",l45r09qD9iIkQn9KoKKfuw,4.0,619,"{'latitude': 42.351981434352, 'longitude': -71.069533707682}",3
+211,Blu Restaurant & Bar,"['4 Avery St', 'Fl 4', 'Equinox Sports Club', 'Boston, MA 02111']",KwL8wWNuUHoplvn8ff97bg,3.5,246,"{'latitude': 42.3531620009557, 'longitude': -71.062771605488}",3
+212,The Cellar Food & Drink,"['991 Massachusetts Ave', 'Cambridge, MA 02138']",UtS03G9OuSNuEtm-lHcf7w,4.0,254,"{'latitude': 42.3694, 'longitude': -71.11103}",2
+213,Capo Restaurant,"['443 West Broadway', 'Boston, MA 02127']",jARXdEubmCxBtN55PYVd7w,3.5,348,"{'latitude': 42.336067, 'longitude': -71.047027}",2
+214,Burro Bar South End,"['1357 Washington St', 'Boston, MA 02118']",HL7Kfo9S3eKgJJAEVQ2rbw,4.0,150,"{'latitude': 42.34157697918738, 'longitude': -71.06931133147431}",2
+215,Slate Bar & Grill,"['109 High St', 'Boston, MA 02110']",bFuUggRPBrXbSQqUbpUgUw,3.5,147,"{'latitude': 42.3547838, 'longitude': -71.0544319901783}",2
+216,Causeway Restaurant & Bar,"['65 Causeway St', 'Boston, MA 02114']",0gCdE3fsWJ86YCT8Hnk9oQ,3.0,178,"{'latitude': 42.3645493372538, 'longitude': -71.0627413541079}",2
+217,The Boston University Pub,"['225 Bay State Rd', 'Boston, MA 02115']",IZEIK2E3_nD_oq9HG7oeyg,3.5,63,"{'latitude': 42.3509024531335, 'longitude': -71.103464387996}",1
+218,Miracle of Science Bar + Grill,"['321 Massachusetts Ave', 'Cambridge, MA 02139']",7MN8kNyuKDZtoSoVdZDCpg,3.5,557,"{'latitude': 42.3625772892949, 'longitude': -71.0985866559435}",2
+219,SOJUba,"['1265 Boylston St', 'Boston, MA 02215']",sqr1T-KLQ7ED49SlAEx49w,4.0,319,"{'latitude': 42.3452636, 'longitude': -71.0963814}",2
+220,Brinkleys Restaurant & Pub,"['225 William F McClellan', 'Boston, MA 02128']",y1sfdxrbmE5GKLF29H0NJA,3.0,30,"{'latitude': 42.387839, 'longitude': -71.016669}",2
+221,The Harp,"['85 Causeway St', 'Boston, MA 02114']",MjopvJwjCbOtsLvkUxUZNQ,2.5,280,"{'latitude': 42.36451753, 'longitude': -71.06231418}",2
+222,Devlin's,"['332 Washington St', 'Brighton, MA 02135']",Vnq-kO_VO-gLFM4ItffzzA,3.5,432,"{'latitude': 42.34878, 'longitude': -71.15231}",2
+223,Beacon Hill Hotel & Bistro,"['25 Charles St', 'Boston, MA 02114']",gOdMTg1eE3lSnNbYf85llQ,3.5,341,"{'latitude': 42.3568939, 'longitude': -71.0698107}",2
+224,Tiki Rock,"['2 Broad St', 'Boston, MA 02109']",AOiNvHQUa5tAJN7Xt4176A,3.5,390,"{'latitude': 42.3591693171543, 'longitude': -71.0545573145172}",2
+225,Daedalus Restaurant,"['45 Mt Auburn St', 'Cambridge, MA 02138']",E_vKoJ0zvpfAcEkQGS4d2A,3.5,460,"{'latitude': 42.3712908462239, 'longitude': -71.11647605896}",2
+226,Tony C's Sports Bar & Grill,"['17 3rd Ave', 'Burlington, MA 01803']",20znyS_wba0KUlbLtibdHQ,3.0,249,"{'latitude': 42.487713, 'longitude': -71.2235448}",2
+227,TGI Fridays,"['1626 Tremont St', 'Boston, MA 02120']",6uuWg3RYUYzrLePphT3PQw,2.0,228,"{'latitude': 42.3336822, 'longitude': -71.1038111}",2
+228,Longwood Grille & Bar,"['342 Longwood Ave', 'Boston, MA 02115']",GXI8J6Xi4e1A1nMPLNtkUA,2.5,99,"{'latitude': 42.3385811, 'longitude': -71.1069107}",2
+229,The Alley,"['14 Pi Aly', 'Boston, MA 02108']",fuKPtwD0JcQniFnMXlHq1g,3.5,86,"{'latitude': 42.35812, 'longitude': -71.0587}",1
+230,Loco Taqueria & Oyster Bar,"['412 W Broadway', 'Boston, MA 02127']",xVxjzyMqghCYwVe_dwJzJw,4.0,621,"{'latitude': 42.3369670759542, 'longitude': -71.0477377406966}",2
+231,Fuji at Ink Block,"['352 Harrison Ave', 'Ste B', 'Boston, MA 02118']",Z6Io2AbJrof7TPVliMZkAg,4.5,469,"{'latitude': 42.345077, 'longitude': -71.063505}",2
+232,Ned Devine's Pub,"['1 Faneuil Hall Marketplace', 'Boston, MA 02109']",tdIyREwlre3SVU41a4eBgA,3.0,527,"{'latitude': 42.3602734854772, 'longitude': -71.0539537012135}",2
+233,Murphy's Law,"['837 Summer St', 'Boston, MA 02127']",FRTe-NhnFL5A6ByDiQngPA,3.5,44,"{'latitude': 42.337992, 'longitude': -71.0356049}",1
+234,Blackmoor Bar and Kitchen,"['1 Chelsea St', 'Boston, MA 02129']",r2CqNYEZyVT3Ay9DRYeF9w,4.0,227,"{'latitude': 42.3714177, 'longitude': -71.0612788}",2
+235,The Bowery Bar,"['2261 Dorchester Ave', 'Boston, MA 02124']",lcarZ5Oj_pWYoENAEK2t8A,3.5,112,"{'latitude': 42.273205, 'longitude': -71.068004}",2
+236,No. 9 Park,"['9 Park St', 'Boston, MA 02108']",uYqizPy4eUSpwOha0RkVPg,4.0,672,"{'latitude': 42.357602, 'longitude': -71.06284}",4
+237,Mystic Station,"['139 Pleasant St', 'Malden, MA 02148']",2ILe62hVJfiZEOcKxFYKDA,4.5,404,"{'latitude': 42.4272503, 'longitude': -71.0708219}",2
+238,The Green Dragon Tavern,"['11 Marshall St', 'Boston, MA 02108']",6sM4hFHheaRNwsd74wplEw,3.5,508,"{'latitude': 42.361437, 'longitude': -71.056799}",2
+239,Paddy O's,"['33 Union St', 'Boston, MA 02108']",Je42YeoIWbMUQphd-UsKLA,3.0,195,"{'latitude': 42.36114, 'longitude': -71.056744}",2
+240,Eventide - Fenway,"['1321 Boylston St', 'Boston, MA 02215']",0kNj4j1QB72Zcw3uYedkSg,4.0,342,"{'latitude': 42.3443425, 'longitude': -71.0991662}",2
+241,Sonsie,"['327 Newbury St', 'Boston, MA 02115']",gOjh7RMDZDn4h-QmwnAseA,3.5,1335,"{'latitude': 42.34884, 'longitude': -71.08625}",2
+242,Stockyard ,"['135 Market St', 'Brighton, MA 02135']",B0ZTztL-vjgm2Tc1ZxSbHg,4.0,352,"{'latitude': 42.357783, 'longitude': -71.1486165}",3
+243,Alden & Harlow,"['40 Brattle St', 'Cambridge, MA 02138']",lad_3DljDhzE61u_GbseTA,4.0,1286,"{'latitude': 42.373561, 'longitude': -71.121464}",3
+244,Granary Tavern,"['170 Milk St', 'Boston, MA 02109']",CWqL2TEq_V9tipCj-X-GoQ,3.5,633,"{'latitude': 42.358785, 'longitude': -71.052531}",2
+245,Jake n JOES Sports Grille - Braintree,"['551 John Mahar Hwy', 'Braintree, MA 02184']",uND3ramjqFFZ7acTMzWrSA,3.5,99,"{'latitude': 42.1987851847223, 'longitude': -70.9994721356222}",2
+246,Daddy Jones,"['525 Medford St', 'Somerville, MA 02145']",I4PeclAxAwHsBneAFD97CA,4.0,191,"{'latitude': 42.3969234, 'longitude': -71.1037934}",2
+247,Branch Line,"['321 Arsenal St', 'Watertown, MA 02472']",HCHxbmFDip0E51onVkcnZg,4.0,343,"{'latitude': 42.3636838, 'longitude': -71.1666722}",2
+248,Cheeky Monkey Brewing,"['3 Lansdowne St', 'Boston, MA 02215']",v_1d4aNN7bjiQ7aF3S0hgA,3.5,215,"{'latitude': 42.3473049, 'longitude': -71.0947133}",2
+249,Harp & Bard,"['1099 Dorchester Ave', 'Dorchester, MA 02125']",wA__asXpc5UJFtOEBWBluA,3.5,177,"{'latitude': 42.31305, 'longitude': -71.05745}",2
+250,Elm Street Taproom,"['256 Elm St', 'Somerville, MA 02114']",u6Va-gVtTh_3JC78MvvYVg,4.0,76,"{'latitude': 42.3956, 'longitude': -71.12233}",2
+251,Little Donkey,"['505 Massachusetts Ave', 'Cambridge, MA 02139']",H0lnJ44GvEkHoSV4WsQwtw,4.0,797,"{'latitude': 42.36437195, 'longitude': -71.10148541}",2
+252,Abe & Louie's,"['793 Boylston St', 'Boston, MA 02116']",ooaCl61BsK7kJlZnYOq0UQ,4.0,1370,"{'latitude': 42.3492240905762, 'longitude': -71.0815887451172}",3
+253,75 on Liberty Wharf,"['220 Northern Ave', 'Boston, MA 02210']",25sny_QPRSFNxCPqu1oRqw,3.0,267,"{'latitude': 42.3491051075898, 'longitude': -71.0388948353222}",2
+254,Commonwealth Restaurant and Market,"['11 Broad Canal Way', 'Cambridge, MA 02142']",Y1-cXsWZ1v2rRj5MMtFsqA,3.5,312,"{'latitude': 42.3632553683178, 'longitude': -71.0825408807768}",2
+255,Champions,"['50 Broadway', 'Cambridge, MA 02142']",x4fNltn_RTWU4xLY3gJQUA,3.0,110,"{'latitude': 42.362650976746, 'longitude': -71.085554223037}",2
+256,Blossom Bar,"['295 Washington St', 'Brookline, MA 02445']",8hJIgeFWS_WXgQBvCpjeQg,4.0,221,"{'latitude': 42.333407, 'longitude': -71.119398}",2
+257,The Burren,"['247 Elm St', 'Somerville, MA 02144']",xGXzsc-hzam-VArK6eTvtw,3.5,508,"{'latitude': 42.395553, 'longitude': -71.1218076}",2
+258,The Dog House Bar & Grill,"['434 Main St', 'Woburn, MA 01801']",yzl1qq2ALNuIeWtBhAWLHw,4.0,48,"{'latitude': 42.48099, 'longitude': -71.1515}",2
+259,World of Beer,"['100 Cambridgeside Pl', 'Cambridge, MA 02141']",uog_FdVRIPtReDYuxLdNGw,2.5,196,"{'latitude': 42.368131, 'longitude': -71.076239}",2
+260,City Table,"['65 Exeter St', 'Boston, MA 02116']",DGlk1nTaaRE6uJFJbKv45A,3.5,297,"{'latitude': 42.34904131, 'longitude': -71.07958036}",2
+261,Tradesman Coffee Shop & Lounge,"['58 Batterymarch St', 'Boston, MA 02110']",9uYa1bl3ajS0R9bRraNkbw,4.5,153,"{'latitude': 42.35738, 'longitude': -71.05345}",2
+262,Orleans Restaurant,"['65 Holland St', 'Somerville, MA 02144']",tCwvQQwNCFNuxAWAHL550w,3.0,391,"{'latitude': 42.39834, 'longitude': -71.1237}",2
+263,Trina's Starlite Lounge,"['3 Beacon St', 'Somerville, MA 02143']",lAUA9Dr_eFliVB5JGUy3qA,4.0,481,"{'latitude': 42.374619071059, 'longitude': -71.101530844105}",2
+264,Donohue's Bar and Grill,"['87 Bigelow Ave', 'Watertown, MA 02472']",uxaLFWos3_BGTXtQNEuZuQ,4.0,155,"{'latitude': 42.3682956, 'longitude': -71.1576568}",2
+265,Ostra,"['1 Charles St S', 'Boston, MA 02116']",_muVoNc4H_H_557WJvVWWQ,4.5,470,"{'latitude': 42.3510951212984, 'longitude': -71.0670912265778}",4
+266,Sweet Cheeks Q,"['1381 Boylston St', 'Boston, MA 02215']",7B9dJn1uWTv9QPnFcDwaXw,3.5,1548,"{'latitude': 42.343898, 'longitude': -71.101103}",2
+267,Royale Boston,"['279 Tremont St', 'Boston, MA 02116']",GIO2J6HDhzKLpcANZ8sXLA,3.0,458,"{'latitude': 42.35001, 'longitude': -71.06565}",2
+268,Jake n JOES Sports Grille - Waltham,"['70 Market Place Dr', 'Waltham, MA 02451']",4kTfzwqYQlKaJIa-O7p9lw,3.0,204,"{'latitude': 42.3792365645885, 'longitude': -71.2627471363299}",2
+269,Penguin Pizza,"['735 Huntington Ave', 'Boston, MA 02115']",bMcozrCMkppinCDu0C5ueA,3.5,542,"{'latitude': 42.3340617633654, 'longitude': -71.1054841064522}",2
+270,224 Boston Street Restaurant,"['224 Boston St', 'Dorchester, MA 02125']",s04-wSKxALS4Xym6OEryyA,4.0,258,"{'latitude': 42.3222800528043, 'longitude': -71.0609253598022}",2
+271,The Bancroft,"['15 Third Ave', 'Burlington, MA 01803']",NX19BZuBNK-lZey8NoH0bA,4.0,678,"{'latitude': 42.48746161291, 'longitude': -71.2222419306636}",3
+272,The Luxury Boxx Sportsbar,"['665 Broadway', 'Malden, MA 02148']",nipPyLOmKkZGRpSP6Dztig,3.5,18,"{'latitude': 42.4429703, 'longitude': -71.0293579}",2
+273,Kimpton Nine Zero Hotel,"['90 Tremont St', 'Boston, MA 02108']",k28Xd9GUwolRI_h1OV0HAg,4.0,345,"{'latitude': 42.357771499057, 'longitude': -71.060581134926}",3
+274,Tia's Waterfront,"['200 Atlantic Ave', 'Fl 1', 'Boston, MA 02110']",EHysqfuLw9Hw9r9fkrlQzQ,2.5,450,"{'latitude': 42.36027215931, 'longitude': -71.0513295739398}",2
+275,Scholars American Bistro and Cocktail Lounge,"['25 School St', 'Boston, MA 02108']",ZQNf8895P81vjCfyipjhYw,3.0,373,"{'latitude': 42.357769319572, 'longitude': -71.059207250754}",2
+276,The Broadway,"['726 E Broadway', 'Boston, MA 02127']",h7ENzK5Vp6f1j6iU-U3g4w,3.5,156,"{'latitude': 42.33592, 'longitude': -71.03622}",2
+277,dbar,"['1236 Dorchester Ave', 'Dorchester, MA 02125']",PEz6_fgetbBgS_OTqXZFrQ,4.0,273,"{'latitude': 42.3084, 'longitude': -71.05803}",2
+278,Legal Sea Foods,"['558 Washington St', 'Boston, MA 02111']",DrfWREMxP-0JCt5Pz8_sUQ,3.5,376,"{'latitude': 42.353749, 'longitude': -71.062259}",3
+279,Phoenix Landing,"['512 Massachusetts Ave', 'Cambridge, MA 02139']",q2EXggq1IIrw20YPSfvJeQ,3.5,322,"{'latitude': 42.36403, 'longitude': -71.10199}",2
+280,Tavern in the Square,"['100 District Ave', 'Burlington, MA 01803']",9Bt9MMtmjPB6IykEMrFB7A,3.5,412,"{'latitude': 42.4852702, 'longitude': -71.2121289}",2
+281,Union Brewhouse,"['550 Washington St', 'Weymouth, MA 02188']",j-JGN1f_cN_20oePpRWXrw,4.0,118,"{'latitude': 42.2054506838322, 'longitude': -70.9537940472364}",2
+282,Kings Dining & Entertainment,"['50 Dalton St', 'Boston, MA 02115']",TLtykd3vG5_BG-8MP66RHg,3.0,515,"{'latitude': 42.34706, 'longitude': -71.08565}",2
+283,Jeanie Johnston Pub & Grill,"['144 South St', 'Jamaica Plain, MA 02130']",w2QQiZN5tXZ5CD4XKLnu7g,3.5,103,"{'latitude': 42.3050799, 'longitude': -71.11445}",2
+284,Coogan's,"['171 Milk St', 'Boston, MA 02109']",X6megK3Vz4xMquw2f233xQ,2.5,309,"{'latitude': 42.358399789122, 'longitude': -71.053212799305}",1
+285,Burro Bar Brookline,"['1665 Beacon St', 'Brookline, MA 02445']",LgKBFgM0hN2yyX9WfEF_JQ,4.0,219,"{'latitude': 42.33849, 'longitude': -71.13739}",2
+286,Aeronaut Brewing Company,"['14 Tyler St', 'Somerville, MA 02143']",w_MxXl29Pnpc94EU6S39cg,4.0,292,"{'latitude': 42.3819711200372, 'longitude': -71.1063153123726}",2
+287,The Smoke Shop BBQ - Kendall Square,"['1 Kendall Sq', 'Cambridge, MA 02139']",gvslXIfVWkVu12MjgdlZJg,4.0,601,"{'latitude': 42.3662975092658, 'longitude': -71.0913755363846}",2
+288,Galway House,"['710 Centre St', 'Jamaica Plain, MA 02130']",oSM8ItF9hZ0Qz7-y9ckuiQ,4.0,234,"{'latitude': 42.311316, 'longitude': -71.114221}",2
