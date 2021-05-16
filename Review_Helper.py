@@ -26,6 +26,8 @@ def yelp_reviews(ID, api_key):
         RL.append(review_tuple)
        
     return RL
+
+def review_clean(csv_filepath , cleanedFile):
     
     header_list = ['Review ID', 'Business ID', 'Review', 'Rating']
     df = pd.read_csv(csv_filepath ,names = header_list)
