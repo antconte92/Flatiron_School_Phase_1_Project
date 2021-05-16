@@ -7,9 +7,9 @@ The objective of this project was to use Python to conduct EDA in order to asses
 ## Our Process:
 We extracted the data using the Yelp API and utilized several different Python libraries to clean up our data set. The variables we looked into included Price, Rating, and Review Count.  We also used the Business ID metric to be able to extract additional information regarding customer satisfaction from the Yelp API and merge our two data sets together for further analysis.
 
-From the analysis that we conducted, we found that there is an oppotunity to open up a bar in Boston with a high rating (4.5 or greater) at a lower price point than what is currently being captured in the market.
+From the analysis that we conducted, we found that there is an opportunity to open up a bar in Boston with a high rating (4.5 or greater) at a lower price point than what is currently being captured in the market.
 
-## Findings from our EDA (Exploratory Dat Analysis):
+## Findings from our EDA:
 From our initial data extraction, there were several bars missing the Price scale criteria so we dropped them from our analysis.
 
 Approximately 3% of our initial search results were dropped from the data set because they were missing Price values.
