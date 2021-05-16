@@ -28,10 +28,18 @@ We also found that on average, the bars in Boston were more frequently reviewed 
 
 ## Below is a breakdown of what is captured in our repository: 
 
-README.md: The README for this repo branch explaining it's contents - you're reading it now
-Hodgens Yelp Project.ipynb: Jupyter Notebook containing complete analysis
-Yelp Restaurant Review.pdf: Slide deck providing an overview of the project
-Additional files used for analysis folder: A folder for all Jupyter notebooks and csv files used
-Yelp_businesses.csv: Restaurant dataset
+Data: This folder contains all of the formatted information from our Yelp API search in .csv format. 
+
+Images: Visualizations from our data set are stored here. 
+
+Business_Details_Questions Jupyter Notebook: This summarizes our findings from the data set based the questions we were tasked to answer. 
+
+Call_Business_Details: This uses the Script_Use Python script to extract information from the business search Yelp API. 
+
+Call_Reviews: This utilizes the Review_Helper script to pull bar reviews from the Yelp API. 
+
+Phase_1_Project_Charts: We used this Jupyter Notebook to create visualizations to gain insight and convey the findings of our study. 
+
+README.md: Provides a synopsis of the method and findings of our analysis. 
 
 Presentation Link: https://docs.google.com/presentation/d/14YCahH-pm5YRGxEyc9EZXTN1FgwofhuJpoStWRfMHq0/edit#slide=id.p
